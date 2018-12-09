@@ -1,0 +1,22 @@
+{
+  "name": "date-formats",
+  "version": "1.0.1",
+  "description": "An awesome module that retrieves a date with whatever format you give it",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amanda-hg/date-formats.git"
+  },
+  "author": "amanda-hg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amanda-hg/date-formats/issues"
+  },
+  "homepage": "https://github.com/amanda-hg/date-formats#readme",
+  "dependencies": {},
+  "devDependencies": {}
+}
