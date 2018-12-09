@@ -21,10 +21,10 @@ Input:
 ```js
 const date = require('date-formats');
 
-const dateFormat1 = date.format('DD-MM-YYYY);
+const dateFormat1 = date.format('DD-MM-YYYY');
 console.log(dateFormat1);
 
-const dateFormat2 = date.format('YYYY-MM-DD);
+const dateFormat2 = date.format('YYYY-MM-DD');
 console.log(dateFormat2);
 ```
 Output:
