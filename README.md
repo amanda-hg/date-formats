@@ -13,7 +13,7 @@ const date = require('date-formats');
 
 This module has one method:
 
-- format: returns a date with the format which one the user pass by param.
+- format: returns a date with the format date which one the user pass by param.
 
 # Example
 ## format
@@ -24,12 +24,12 @@ const date = require('date-formats');
 const dateFormat1 = date.format('DD-MM-YYYY');
 console.log(dateFormat1);
 
-const dateFormat2 = date.format('YYYY-MM-DD');
+const dateFormat2 = date.format('YYYY/MM/DD');
 console.log(dateFormat2);
 ```
 Output:
 ```js
-01/11/1999
+01-11-1999
 
 1999/11/01
 ```

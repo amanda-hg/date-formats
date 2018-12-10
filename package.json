@@ -1,5 +1,5 @@
 {
-  "name": "date-formats",
+  "name": "@amanda-hg/date-formats",
   "version": "1.0.1",
   "description": "An awesome module that retrieves a date with whatever format you give it",
   "main": "index.js",
